@@ -6,6 +6,9 @@
 .*.sw[a-z]
 *.un~
 
+# Coveralls
+coverage
+
 # Bundler
 Gemfile.lock
 bin/*
