@@ -7,7 +7,7 @@
 *.un~
 
 # Coveralls
-coverage
+coverage/*
 
 # Bundler
 Gemfile.lock
