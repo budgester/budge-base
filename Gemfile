@@ -3,10 +3,10 @@ source 'https://rubygems.org'
 gem 'berkshelf'
 gem 'chef'
 gem 'chefspec'
+gem 'coveralls', require: false
 gem 'foodcritic'
 gem 'rake'
 gem 'rubocop'
-gem 'coveralls', require: false
 
 group :integration do
   gem 'kitchen-vagrant'
