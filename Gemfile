@@ -6,6 +6,7 @@ gem 'chefspec'
 gem 'foodcritic'
 gem 'rake'
 gem 'rubocop'
+gem 'coveralls', require: false
 
 group :integration do
   gem 'kitchen-vagrant'

@@ -3,5 +3,9 @@
 
 # budge-base
 
-TODO: Enter the cookbook description here.
+Base empty cookbook with
 
+Coveralls
+Travis
+Rakefile
+Gemfile
